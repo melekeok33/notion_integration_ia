@@ -41,9 +41,8 @@ cd notion_integration_ia
 
 
 notion-gemini-assistant/
-├── main.py                # Orquestador principal y bucle continuo (polling loop)
+├── main.py                # Orquestador principal y bucle infinito
 ├── notion_client_con.py   # Conexión, lectura recursiva de páginas y escritura de bloques
 ├── gemini_client_con.py   # Cliente dedicado y prompts base de Gemini 2.5 Flash
 ├── calendar_client_con.py  # Módulo para la integración con base de datos de calendario
-├── .env                   # Archivo de tokens privados (¡Asegúrate de no subirlo a GitHub!)
 └── requirements.txt       # Archivo con todas las dependencias del ecosistema Python
