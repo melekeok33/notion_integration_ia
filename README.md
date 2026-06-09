@@ -36,8 +36,8 @@ Escribe cualquiera de las siguientes etiquetas al inicio de un bloque en Notion.
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/notion-gemini-assistant.git](https://github.com/tu-usuario/notion-gemini-assistant.git)
-cd notion-gemini-assistant
+git clone [https://github.com/melekeok33/notion_integration_ia](https://github.com/melekeok33/notion_integration_ia)
+cd notion_integration_ia
 
 
 notion-gemini-assistant/
